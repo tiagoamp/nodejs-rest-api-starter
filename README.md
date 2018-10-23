@@ -1,2 +1,2 @@
 # nodejs-rest-api-starter
-My personal REST api in nodejs starterkit
+My personal REST api in nodejs starter-kit
